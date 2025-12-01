@@ -48,3 +48,27 @@ The panel should include personas representing:
 - The city's economic future (tech vs. tourism vs. government)
 - "Judaization" concerns vs. Jewish historical claims
 - Coexistence programs and their effectiveness
+
+## Personas
+
+### Jewish Demographics
+- **Haredi Ashkenazi** (Yitzchak) - Ultra-Orthodox Litvish man from Mea Shearim
+- **Haredi Sephardi** (Shimon) - Shas-aligned Sephardi Haredi from Har Nof
+- **National Religious** (Avigail) - Dati-leumi lawyer from Katamon
+- **Secular Jerusalemite** (Tal) - Documentary filmmaker from German Colony
+- **Old City Jewish Resident** (Eliyahu) - Religious Zionist in the Jewish Quarter
+
+### Arab Demographics
+- **Palestinian East Jerusalemite** (Marwan) - Shop owner from Shuafat
+- **Christian Arab** (Hanna) - Greek Orthodox guide from Christian Quarter
+- **Armenian Jerusalemite** (Kevork) - Ceramicist from Armenian Quarter
+
+### Immigrants
+- **American Oleh** (David) - Modern Orthodox immigrant from New York
+- **French Olah** (Sophie) - Real estate agent from Paris
+- **Ethiopian Jerusalemite** (Almaz) - Community organizer from Pisgat Ze'ev
+
+### Special Perspectives
+- **Municipal Social Worker** (Ronit) - Works across all communities
+- **Tech Professional** (Noa) - Software developer in Har Hotzvim
+- **Student Activist** (Yuval) - Hebrew University progressive activist

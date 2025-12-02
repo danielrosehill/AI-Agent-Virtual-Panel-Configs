@@ -28,9 +28,22 @@ The Security Council's fifteen members (five permanent with veto power, ten rota
 - **China** - Non-interference principle, development focus, increasingly assertive
 
 ### Elected Members (E10) - Rotating
-These change every two years, but simulations can include:
-- Representatives from African, Asian, Latin American, Eastern European, Western European groups
-- Current or historical elected members based on simulation needs
+
+**2024-2025 Term:**
+- **Algeria** (African Group) - Strong pro-Palestinian stance, non-interference principles
+- **Guyana** (GRULAC) - Climate security, territorial integrity, small state voice
+- **Republic of Korea** (Asia-Pacific) - North Korea expertise, US ally, middle power diplomacy
+- **Sierra Leone** (African Group) - Peacebuilding experience, African peace and security
+- **Slovenia** (WEOG) - EU coordination, human rights, Western Balkans expertise
+
+**2025-2026 Term:**
+- **Denmark** (WEOG) - Human rights champion, Arctic security, Nordic values
+- **Greece** (WEOG) - Eastern Mediterranean, EU coordination, Cyprus expertise
+- **Pakistan** (Asia-Pacific) - Kashmir, Muslim world concerns, major peacekeeping contributor
+- **Panama** (GRULAC) - Maritime security, canal expertise, Central American perspective
+- **Somalia** (African Group) - State-building perspective, counter-terrorism, African solutions
+
+See [personas/](personas/) directory for detailed agent personas for each member.
 
 ## Simulation Dynamics
 
